@@ -1,3 +1,5 @@
+# encoding: BINARY
+
 module AWS
   module S3
     
