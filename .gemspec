@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     s.name              = 'aws-sdk-support'
-    s.version           = Gem::Version.new(AWS::S3::Version)
+    s.version           = 1
     s.summary           = "Client library for Amazon's Simple Storage Service's REST API"
     s.description       = s.summary
     s.email             = 'andreccomputacao@gmail.com'
