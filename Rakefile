@@ -58,7 +58,7 @@ end
 
 namespace :dist do  
   spec = Gem::Specification.new do |s|
-    s.name              = 'aws-s3'
+    s.name              = 'aws-cda'
     s.version           = Gem::Version.new(AWS::S3::Version)
     s.summary           = "Client library for Amazon's Simple Storage Service's REST API"
     s.description       = s.summary
